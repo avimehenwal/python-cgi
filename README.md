@@ -10,3 +10,7 @@ all the CGI scripts, some of them could be dangerous.
 
 > If the location of CGI scripts is `/tmp/share/cgi-bin` then use location `/tmp/share`
 > to run python server.
+
+## Sample
+
+https://github.com/pyohei/docker-cgi-python
